@@ -1,1 +1,1 @@
-# Student-Information-Registration-System
+# Student-Registration-System
